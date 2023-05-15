@@ -9,10 +9,10 @@ The Huckel matrix-based algorithm employed by this program computes the energy o
 ```
 sudo apt install gfortran
 ```
-* 2 - Fortran library (llapack, openmp):
+* 2 - Fortran library (llapack):
   
 ```
-sudo apt install liblapack-dev libopenblas-dev libomp-dev
+sudo apt install liblapack-dev libopenblas-dev
 ```
 * 3 - for plotting (gnuplot):
 
