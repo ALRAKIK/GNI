@@ -60,15 +60,15 @@ python GNI.py
 
 | flags                    | type  | Description | 
 | :---                         |  :--- |     :---       |
-| -N_HEXA       |`integer` | Write the number of hexagon on each side |
-| -t            |`integer` |  Write the number to remove from the top side"|
-| -l            |`integer` |  Write the number to remove from the left side"|
-| -r            |`integer` |  Write the number to remove from the right side"|
-| -Beta         |`real`    | Write the beta coefficient (hopping integral) |
-| -H  (optional) |`logical` | Write the hessian matrix to a file called       'hessian'         |
-| -OR (optional) |`logical` | Write the Eigenvector (Orbitals) to file called 'EigenVector'     |
-| -P  (optional) |`logical` | Generate a png pic for the coordinates called   'scatter.png'     |
-| -EV (optional) |`logical` | Generate the eigenvalues figure as              'EigenValues.png' |
+| -N_HEXA          |`integer` | Write the number of hexagon on each side |
+| -t (optional)    |`integer` |  Write the number to remove from the top side"|
+| -l (optional)    |`integer` |  Write the number to remove from the left side"|
+| -r (optional)    |`integer` |  Write the number to remove from the right side"|
+| -Beta (optional) |`real`    | Write the beta coefficient (hopping integral) (default value is 2.0)|
+| -H  (optional)   |`logical` | Write the hessian matrix to a file called       'hessian'         |
+| -OR (optional)   |`logical` | Write the Eigenvector (Orbitals) to file called 'EigenVector'     |
+| -P  (optional)   |`logical` | Generate a png pic for the coordinates called   'scatter.png'     |
+| -EV (optional)   |`logical` | Generate the eigenvalues figure as              'EigenValues.png' |
 
 
 
