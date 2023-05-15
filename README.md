@@ -65,10 +65,10 @@ python GNI.py
 | -l            |`integer` |  Write the number to remove from the left side"|
 | -r            |`integer` |  Write the number to remove from the right side"|
 | -Beta         |`real`    | Write the beta coefficient (hopping integral) |
-| -H  (optional) |`logical` | Write the hessian matrix to a file called       'hessian'         (write 1 for this option)  |
-| -OR (optional) |`logical` | Write the Eigenvector (Orbitals) to file called 'EigenVector'     (write 1 for this option)  |
-| -P  (optional) |`logical` | Generate a png pic for the coordinates called   'scatter.png'     (write 1 for this option)  |
-| -EV (optional) |`logical` | Generate the eigenvalues figure as              'EigenValues.png' (write 1 for this option)  |
+| -H  (optional) |`logical` | Write the hessian matrix to a file called       'hessian'         |
+| -OR (optional) |`logical` | Write the Eigenvector (Orbitals) to file called 'EigenVector'     |
+| -P  (optional) |`logical` | Generate a png pic for the coordinates called   'scatter.png'     |
+| -EV (optional) |`logical` | Generate the eigenvalues figure as              'EigenValues.png' |
 
 
 
