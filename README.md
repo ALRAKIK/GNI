@@ -53,12 +53,12 @@ python GNI.py
 * using the commend line 
 
 ```sh
-./GNI 'arguments'
+./GNI 'flags'
 ```
 
-* arguments 
+* flags
 
-| argument                     | type  | Description | 
+| flags                    | type  | Description | 
 | :---                         |  :--- |     :---       |
 | -N_HEXA       |`integer` | Write the number of hexagon on each side |
 | -t            |`integer` |  Write the number to remove from the top side"|
