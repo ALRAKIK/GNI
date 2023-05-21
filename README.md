@@ -1,6 +1,7 @@
 # GNI (Graphene Nanoisland)
 The Huckel matrix-based algorithm employed by this program computes the energy of a triangulene or a graphene nanoisland (GNI) by performing diagonalization.
 
+![Screenshot](Example/GNI_7221/EigenValues_7221.png)
 
 # Prerequisite
 
